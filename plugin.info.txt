@@ -1,0 +1,7 @@
+base   cody
+author Andreas Gohr
+email  andi@splitbrain.org
+date   2017-06-04
+name   cody plugin
+desc   inline code editor
+url    https://www.dokuwiki.org/plugin:cody
